@@ -134,7 +134,9 @@ cd OxynSentinel
 there will be 2 backend , one for Management and other for Scan service , choose one of them and do 
 
 -Build & run:
+
 mvn clean install
+
 mvn spring-boot:run
 
 
