@@ -143,4 +143,31 @@ there will be 2 backend , one for Management and other for Scan service , choose
 👉 http://localhost:8089/oxynsentinel/swagger-ui.html
 
 
+### IMPORTANT : 
+before run the work u need a DB Server and Keycloak Server then update those parameters in application.properties , also generate a JWT 
+
+## DB Config
+-spring.datasource.url
+-spring.datasource.username
+-spring.datasource.password
+
+## Keycloak Config 
+-keycloak.jwk-set-uri
+-keycloak.issuer-uri
+-keycloak.client-id
+-keycloak.admin-client-id
+-keycloak.admin-client-secret
+-keycloak.base-url
+
+## JWT Config
+-jwt.secret
+
+
+
+
+
+
+
+
+
 
