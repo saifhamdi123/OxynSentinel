@@ -1,5 +1,5 @@
 # Ignore tout par défaut
-*
+
 
 # Garder ces fichiers/dossiers
 !.gitignore
