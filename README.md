@@ -126,8 +126,8 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
 
 ###▶️ How to Run
 
--Clone the project
-git clone https://github.com/saifhamdi123/OxynSentinel.git
+-Clone the project \n
+git clone https://github.com/saifhamdi123/OxynSentinel.git \n
 cd OxynSentinel
 
 
