@@ -124,3 +124,20 @@ spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
 
 
+###▶️ How to Run
+Clone the project
+git clone https://github.com/saifhamdi123/OxynSentinel.git
+cd OxynSentinel
+
+there will be 2 backend , one for Management and other for Scan service , choose one of them and do 
+
+-Build & run:
+mvn clean install
+mvn spring-boot:run
+
+
+## Swagger UI :(use this Url for testing)
+👉 http://localhost:8089/oxynsentinel/swagger-ui.html
+
+
+
