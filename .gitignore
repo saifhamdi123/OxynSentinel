@@ -1,0 +1,16 @@
+# Ignore tout par défaut
+*
+
+# Garder ces fichiers/dossiers
+!.gitignore
+!/src/
+!/pom.xml
+!/README.md
+!/HELP.md
+
+
+# Ignorer les fichiers parasites éventuels DANS src/
+src/**/.DS_Store
+src/**/Thumbs.db
+src/**/.idea/
+src/**/.vscode/
