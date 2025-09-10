@@ -125,9 +125,11 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
 
 
 ###▶️ How to Run
-Clone the project
+
+-Clone the project
 git clone https://github.com/saifhamdi123/OxynSentinel.git
 cd OxynSentinel
+
 
 there will be 2 backend , one for Management and other for Scan service , choose one of them and do 
 
